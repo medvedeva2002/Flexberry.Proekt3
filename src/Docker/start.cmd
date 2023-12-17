@@ -1,0 +1,1 @@
+docker-compose -p proekt3 up -d
